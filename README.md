@@ -5,7 +5,7 @@
 
 ## DYRESM-CAEDYM lake water quality model
 
-Developed by the Centre for Water Research, University of Western Australia
+Lake ecosystem model developed by the Centre for Water Research, University of Western Australia.
 
 CONFIGURATION  AGGREGATE:  DYRESM-CAEDYM V5.0.0-35
 
@@ -17,3 +17,10 @@ CONFIGURATION  AGGREGATE:  DYRESM-CAEDYM V5.0.0-35
                                  Build:  2006-11-27T09:16+0800
              Low-Level I/O Lib:  netCDF Lib  VERSION of Sep  1 2004 16:00:21 $
                    ----- CODE MATURITY LEVEL: PRE-ALPHA -----
+
+
+## DYCD-TOOLS lake water quality model
+
+Tools for DYRESM-CAEDYM model development, including assisting with calibrating selected model parameters and visualising model output through time series plot, profile plot, contour plot, and scatter plot, accessible [here](https://github.com/SongyanYu/dycdtools)
+
+
