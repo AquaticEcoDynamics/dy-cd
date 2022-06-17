@@ -3,7 +3,7 @@
 
 # dy-cd
 
-## DYRESM-CAEDYM lake water quality model
+## DYRESM-CAEDYM : Lake water quality model
 
 Lake ecosystem model developed by the Centre for Water Research, University of Western Australia.
 
