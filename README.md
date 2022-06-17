@@ -19,8 +19,8 @@ CONFIGURATION  AGGREGATE:  DYRESM-CAEDYM V5.0.0-35
                    ----- CODE MATURITY LEVEL: PRE-ALPHA -----
 
 
-## DYCD-TOOLS lake water quality model
+## DYCD-TOOLS : R package for DY-CD application
 
-Tools for DYRESM-CAEDYM model development, including assisting with calibrating selected model parameters and visualising model output through time series plot, profile plot, contour plot, and scatter plot, accessible [here](https://github.com/SongyanYu/dycdtools)
+Tools for DYRESM-CAEDYM model development, including assisting with calibrating selected model parameters and visualising model output through time series plot, profile plot, contour plot, and scatter plot, accessible via this repository [here](https://github.com/SongyanYu/dycdtools)
 
 
