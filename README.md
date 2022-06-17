@@ -1,11 +1,14 @@
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+[![Latest release](https://badgen.net/github/release/Naereen/Strapdown.js)](https://github.com/AquaticEcoDynamics/dy-cd/releases)
+
 # dy-cd
 
 ## DYRESM-CAEDYM lake water quality model
 
 Developed by the Centre for Water Research, University of Western Australia
 
-
 CONFIGURATION  AGGREGATE:  DYRESM-CAEDYM V5.0.0-35
+
                          THIS BUILD:  2006-10-13T11:38+0800
            CONFIGURATION COMPONENTS:-
                 Driver program:  DYRESM  3.1.0-03
